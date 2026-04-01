@@ -1,5 +1,7 @@
 # 🎬 IMDB Data Analysis
 
+View Notebook: https://github.com/pallavisandilya4-hash/IMDB_Data-Analysis/blob/main/IMDB.ipynb
+
 ## 📌 Objective
 The objective of this project is to analyze the IMDB movie dataset to uncover trends in ratings, genres, and popularity.
 
